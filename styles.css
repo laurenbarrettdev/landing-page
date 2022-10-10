@@ -19,7 +19,7 @@ body {
 .navbar-links {
     list-style-type: none;
     font-size: 18px;
-    color: #E5E7E8;
+    color: #E5E7EB;
     margin: 18px;
     
 }
@@ -45,13 +45,12 @@ h1 {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
-    margin-left: -40px;
+    
 }
 
 .hero-text {
     font-size: 18px;
     color: #E5E7EB;
-    margin-left: 90px;
 }
 
 .hero {
@@ -65,7 +64,7 @@ h1 {
     flex-direction: column;
     width: 50%;
     justify-content: center;
-    align-items: center;
+    margin-left: 220px;
 }
 
 .hero-right {
@@ -80,3 +79,14 @@ img {
     margin: 55px;
 }
 
+.sign-up-button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    width: 130px;
+    height: 40px;
+    border: 1px #3882F6;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 15px;
+}
